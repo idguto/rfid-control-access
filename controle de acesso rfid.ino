@@ -13,15 +13,15 @@ void libera(void);
 void number(void);
 
 int senha1[]={ 
-  220, 110, 203,  7, 126};      //tag original
+  220, 110, 203,  7, 126};      
 int senha2[]={ 
-  144,  72,  42, 51, 193};     //tag orinigal
+  144,  72,  42, 51, 193};    
 int senha3[]={ 
-  218,  90,  243, 19, 96};     //martec
+  218,  90,  243, 19, 96};     
 int senha4[]={ 
-  253,  228,  190, 242, 85};   //pec
+  253,  228,  190, 242, 85};   
 int senha5[]={ 
-  23,  199,  102, 245, 67};   //stefanini
+  23,  199,  102, 245, 67};  
 int senha6[]={ 
   0,  0,  0, 0, 0};
 void setup()
